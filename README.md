@@ -29,8 +29,9 @@ One SPI Bus and three GPIO pins are exposed for external device attachments
 
 <img width="475" height="631" alt="Screenshot 2026-02-26 034142" src="https://github.com/user-attachments/assets/769b34a7-0260-4c6e-abad-841abcd7072c" />
 <img width="464" height="654" alt="Screenshot 2026-02-26 034225" src="https://github.com/user-attachments/assets/8a1e78a4-0bcd-42e2-9212-5d95c24fd88f" />
-<img width="494" height="656" alt="Screenshot 2026-02-26 034250" src="https://github.com/user-attachments/assets/57d85ee3-5071-4ff4-a5ca-bde8186fefe2" />
 <img width="507" height="684" alt="Screenshot 2026-02-26 034237" src="https://github.com/user-attachments/assets/f6d4c4df-978c-4dd8-8eed-898a86855c47" />
+<img width="567" height="812" alt="Screenshot 2026-02-26 195119" src="https://github.com/user-attachments/assets/254cdc43-b013-4ece-a302-b7396b617106" />
+
 
 # Board Images
 <img width="674" height="797" alt="Screenshot 2026-02-26 193803" src="https://github.com/user-attachments/assets/03c77f76-53eb-4dc2-8059-b9e1c2359198" />
