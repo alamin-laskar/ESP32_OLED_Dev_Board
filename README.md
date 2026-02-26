@@ -18,7 +18,7 @@ SW4   ---->  14  (UP)
 
 SW5   ---->  13  (OK)
 
-For USB to UART convertion CP2102 USB to UART bridge is used.
+For USB to UART conversion CP2102 USB to UART bridge is used.
 
 # Exposed Pins
 One SPI Bus and three GPIO pins are exposed for external device attachments
